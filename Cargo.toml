@@ -1,9 +1,10 @@
 [package]
 name = "windows-key-listener"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
 license = "MIT"
 authors = ["Zach Connelly"]
+repository = "https://github.com/zach-connelly/windows-key-listener"
 description = "Listen to arbitrary key chords on Windows."
 
 [dependencies]

@@ -37,7 +37,7 @@ Add this to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-key_listener = "0.1.1"
+key_listener = "0.1.2"
 ```
 
 ## Requirements
