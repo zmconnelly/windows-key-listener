@@ -34,9 +34,11 @@ fn main() {
 ## Installation
 
 Add this to your `Cargo.toml`:
-toml
+
+```toml
 [dependencies]
 key_listener = "0.1.1"
+```
 
 ## Requirements
 
