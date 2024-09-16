@@ -2,6 +2,7 @@
 name = "windows-key-listener"
 version = "0.1.1"
 edition = "2021"
+license = "MIT"
 authors = ["Zach Connelly"]
 description = "Listen to arbitrary key chords on Windows."
 
